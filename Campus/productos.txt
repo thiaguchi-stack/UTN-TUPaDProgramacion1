@@ -1,0 +1,4 @@
+nombre,precio,cantidad
+Lapicera,120.5,30
+Goma,70,50
+Colores,200,15
